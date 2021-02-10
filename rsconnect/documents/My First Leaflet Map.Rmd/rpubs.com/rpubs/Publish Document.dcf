@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/723831/a25414b5c0d14af19efe4f8875d93378
+bundleId: https://api.rpubs.com/api/v1/document/723831/a25414b5c0d14af19efe4f8875d93378
+url: http://rpubs.com/Excogitator/723831
+when: 1612965853.13126
